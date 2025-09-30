@@ -5,7 +5,7 @@ order: 4
 ---
 
 ## 👋 Hello, I’m Omar
-
+<img src="[/assets/img/me.jpg](https://pbs.twimg.com/profile_banners/865334660448104449/1759008404/1500x500)" alt="Omar" style="width:200px; border-radius:50%; display:block; margin:auto;" />
 I’m a **Cybersecurity Specialist** and **Bug Bounty Hunter**, passionate about exploring security vulnerabilities and strengthening digital defenses.  
 
 Before diving deep into security, I worked as a **Backend Developer**, building scalable web applications and learning how systems work from the inside out. That experience gave me a solid foundation in programming and architecture, which I now use to understand, exploit, and fix real-world security flaws.
