@@ -4,9 +4,8 @@ date: 2025-09-30 20:00:00 +0300
 categories: [Blog]
 tags: [introduction, cybersecurity, bugbounty]
 pin: true
+image: /assets/img/posts/pin.jpg
 ---
-
-
 👋 أهلاً بيكم في مدوّنتي 
 
 دي أول تدوينة ليا هنا! 🎉  
